@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1734065552 source:f:\estudios\tecnicatura-en-programacion-utn-frgp\proyectos\juegoescalera\funciones.cpp
+	<iostream>
+	<cstdlib>
+	"funciones.h"
+	"interfaz.h"
+	"rlutil.h"
+
+1733975996 f:\estudios\tecnicatura-en-programacion-utn-frgp\proyectos\juegoescalera\funciones.h
+
+1733460387 f:\estudios\tecnicatura-en-programacion-utn-frgp\proyectos\juegoescalera\interfaz.h
+
+1733458330 f:\estudios\tecnicatura-en-programacion-utn-frgp\proyectos\juegoescalera\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1733972807 source:f:\estudios\tecnicatura-en-programacion-utn-frgp\proyectos\juegoescalera\interfaz.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	"interfaz.h"
+	"rlutil.h"
+	"funciones.h"
+
+1733458330 source:f:\estudios\tecnicatura-en-programacion-utn-frgp\proyectos\juegoescalera\main.cpp
+	<iostream>
+	<ctime>
+	"menu.h"
+	"rlutil.h"
+	"interfaz.h"
+
+1733458330 f:\estudios\tecnicatura-en-programacion-utn-frgp\proyectos\juegoescalera\menu.h
+
+1733972580 source:f:\estudios\tecnicatura-en-programacion-utn-frgp\proyectos\juegoescalera\menu.cpp
+	<iostream>
+	<cstdlib>
+	"rlutil.h"
+	"simulacion.h"
+	"unJugador.h"
+	"interfaz.h"
+	"funciones.h"
+
+1733458330 f:\estudios\tecnicatura-en-programacion-utn-frgp\proyectos\juegoescalera\simulacion.h
+
+1733462805 f:\estudios\tecnicatura-en-programacion-utn-frgp\proyectos\juegoescalera\unjugador.h
+
+1733976027 source:f:\estudios\tecnicatura-en-programacion-utn-frgp\proyectos\juegoescalera\simulacion.cpp
+	<iostream>
+	<cstdlib>
+	"rlutil.h"
+	"funciones.h"
+	"interfaz.h"
+
+1734066079 source:f:\estudios\tecnicatura-en-programacion-utn-frgp\proyectos\juegoescalera\unjugador.cpp
+	<iostream>
+	<cstdlib>
+	"rlutil.h"
+	"funciones.h"
+	"menu.h"
+	"interfaz.h"
+
